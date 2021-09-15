@@ -1,7 +1,12 @@
 # Waduzitdo
 A Tiny Language based on PILOT in 256 bytes of Z80 or 8080 Code
 
-Waduzitdo featured in Byte September 1978. It is a tiny framework that allows text to be stored into memory, edited and recalled using simple character commands. Listings for 6800, 8080 and Pascal were provided.
+Waduzitdo featured in Byte September 1978. It is a tiny framework that allows text to be stored into memory, edited and retrieved using simple character commands. Listings for 6800, 8080 microprocessors and in Pascal were provided.
+
+The original article is reproduced here:
+
+http://primepuzzle.com/waduzitdo/waduzitdo.html
+
 
 It would be hard-pushed to say that it is a language, but more of a user friendly, interactive text storage/retrieval means for early microprocessors. If you had an early 6800 or Z80 system with a serial terminal and simple hex monitor program, Waduzitdo would bring a whole new set of text-based possibilities to such a system.
 
